@@ -70,7 +70,7 @@ export default {
     align-items: center;
     font-size: 2.5rem;
     background-color: #1f2235;
-    margin-bottom: 3rem;
+    /* margin-bottom: 3rem; */
 }
 
 .content01-frame-sm {
